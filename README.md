@@ -1,1 +1,1 @@
-# AlgebraColloqium
+The toughest colloquim survival guide
